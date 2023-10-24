@@ -41,7 +41,7 @@ settings = {
     'max_new_tokens_max': 4096,
     'seed': -1,
     'negative_prompt': '',
-    'truncation_length': 2048,
+    'truncation_length': 32768,
     'truncation_length_min': 0,
     'truncation_length_max': 32768,
     'custom_stopping_strings': '',
